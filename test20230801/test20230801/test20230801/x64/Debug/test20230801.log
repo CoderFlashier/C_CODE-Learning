@@ -1,0 +1,16 @@
+﻿  test.c
+E:\C语言基础\test20230801\test20230801\test20230801\test.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C语言基础\test20230801\test20230801\test20230801\test.c(13,9): message : 请考虑在格式字符串中使用“%zd”
+E:\C语言基础\test20230801\test20230801\test20230801\test.c(14,8): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C语言基础\test20230801\test20230801\test20230801\test.c(14,8): message : 请考虑在格式字符串中使用“%zd”
+E:\C语言基础\test20230801\test20230801\test20230801\test.c(15,8): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C语言基础\test20230801\test20230801\test20230801\test.c(15,8): message : 请考虑在格式字符串中使用“%zd”
+E:\C语言基础\test20230801\test20230801\test20230801\test.c(16,8): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C语言基础\test20230801\test20230801\test20230801\test.c(16,8): message : 请考虑在格式字符串中使用“%zd”
+E:\C语言基础\test20230801\test20230801\test20230801\test.c(17,8): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C语言基础\test20230801\test20230801\test20230801\test.c(17,8): message : 请考虑在格式字符串中使用“%zd”
+E:\C语言基础\test20230801\test20230801\test20230801\test.c(18,8): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C语言基础\test20230801\test20230801\test20230801\test.c(18,8): message : 请考虑在格式字符串中使用“%zd”
+E:\C语言基础\test20230801\test20230801\test20230801\test.c(19,8): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C语言基础\test20230801\test20230801\test20230801\test.c(19,8): message : 请考虑在格式字符串中使用“%zd”
+  test20230801.vcxproj -> E:\C语言基础\test20230801\test20230801\x64\Debug\test20230801.exe
