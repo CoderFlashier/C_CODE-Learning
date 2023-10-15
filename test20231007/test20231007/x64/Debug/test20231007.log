@@ -1,0 +1,4 @@
+﻿  test.c
+E:\C语言基础\test20231007\test20231007\test.c(36,12): warning C4244: “函数”: 从“__int64”转换到“double”，可能丢失数据
+E:\C语言基础\test20231007\test20231007\test.c(36,7): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+  test20231007.vcxproj -> E:\C语言基础\test20231007\x64\Debug\test20231007.exe
