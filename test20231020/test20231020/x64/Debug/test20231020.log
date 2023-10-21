@@ -1,0 +1,7 @@
+﻿  test.c
+E:\C语言基础\test20231020\test20231020\test.c(21,23): warning C4133: “-”: 从“char *”到“int *”的类型不兼容
+E:\C语言基础\test20231020\test20231020\test.c(21,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+E:\C语言基础\test20231020\test20231020\test.c(21,9): message : 请考虑在格式字符串中使用“%lld”
+E:\C语言基础\test20231020\test20231020\test.c(21,9): message : 请考虑在格式字符串中使用“%Id”
+E:\C语言基础\test20231020\test20231020\test.c(21,9): message : 请考虑在格式字符串中使用“%I64d”
+  test20231020.vcxproj -> E:\C语言基础\test20231020\x64\Debug\test20231020.exe
