@@ -1,0 +1,3 @@
+﻿  test.c
+E:\C语言基础\test20231027\test20231027\test.c(1,1): warning C4828: 文件包含在偏移 0x1a44 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test20231027.vcxproj -> E:\C语言基础\test20231027\x64\Debug\test20231027.exe
