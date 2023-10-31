@@ -1,0 +1,4 @@
+﻿  test.c
+E:\C语言基础\test20231028\test20231028\test.c(90,24): warning C4133: “函数”: 从“char *”到“const int *”的类型不兼容
+E:\C语言基础\test20231028\test20231028\test.c(90,49): warning C4133: “函数”: 从“char *”到“const int *”的类型不兼容
+  test20231028.vcxproj -> E:\C语言基础\test20231028\x64\Debug\test20231028.exe
