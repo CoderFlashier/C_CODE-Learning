@@ -38,3 +38,4 @@ int main()
 	printf("%s", arr);
 	return 0;
 }
+//如果用gets()作为输入的话，考虑的标记是'\0'
